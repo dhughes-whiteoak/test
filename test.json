@@ -1,0 +1,5 @@
+{
+    "/api/": "done",
+    "/results": "/success",
+    "/SSRF": "/posts?true"
+  }
